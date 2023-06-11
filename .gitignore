@@ -1,3 +1,5 @@
+*.csv
+*.pem
 git-create.sh
 .terraform/
 .terraform*
